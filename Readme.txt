@@ -1,0 +1,1 @@
+This is homework of the online Machine Learning course by Andrew Ng from Stanford University on Coursera.org
